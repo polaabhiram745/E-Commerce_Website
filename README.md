@@ -15,3 +15,6 @@ MySql
 SqlYog
 _____________________________________
 
+Entities => Category, Product , User
+Dao => Categorydao, UseDao, ProductDao
+servlets => Login, Logout, ProductOperation, Register
